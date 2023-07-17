@@ -14,7 +14,7 @@
   "keywords": [
     "cypress"
   ],
-  "author": "Pamela Monteiro | Gilvan",
+  "author": "Pamela Monteiro",
   "devDependencies": {
     "@badeball/cypress-cucumber-preprocessor": "^15.0.0",
     "@bahmutov/cypress-esbuild-preprocessor": "^2.1.5",
